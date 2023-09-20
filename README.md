@@ -11,7 +11,7 @@
 
 - <b>Javascript</b>
   - [Exercices](https://www.youtube.com/watch?v=a83ASGn_V_s)
-  - [Web pokemonAPI](https://www.youtube.com/watch?v=a83ASGn_V_s)
+  - [Web pokemonAPI](https://github.com/adriacb99/PokemonAPI)
 
 <h2>💻 HTML/CSS:</h2>
 
