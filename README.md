@@ -16,7 +16,7 @@
 <h2>💻 HTML/CSS:</h2>
 
 - <b>Web: </b>
-  - [My favourite games](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [My favourite games](https://github.com/adriacb99/Web)
 
 <h2>👨‍💻 C#/C++:</h2>
 
