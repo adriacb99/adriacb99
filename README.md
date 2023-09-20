@@ -3,7 +3,7 @@
 <h2>🎮 Unity Minigames:</h2>
 
 - <b>Asteroids</b>
-  - [Asteroid game](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Asteroid game](https://github.com/adriacb99/Asteroids)
 - <b>Plataforms game</b>
   - [Tile Knight](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
   
