@@ -5,7 +5,7 @@
 - <b>Asteroids</b>
   - [Asteroid game](https://github.com/adriacb99/Asteroids)
 - <b>Plataforms game</b>
-  - [Tile Knight](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [Tile Knight](https://github.com/adriacb99/TileKnight)
   
 <h2>📺 Javascript exercices</h2>
 
