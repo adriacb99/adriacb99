@@ -10,7 +10,7 @@
 <h2>📺 Javascript exercices</h2>
 
 - <b>Javascript</b>
-  - [Exercices](https://www.youtube.com/watch?v=a83ASGn_V_s)
+  - [Exercices]
   - [Web pokemonAPI](https://github.com/adriacb99/PokemonAPI)
 
 <h2>💻 HTML/CSS:</h2>
