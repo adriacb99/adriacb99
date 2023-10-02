@@ -4,7 +4,7 @@
 
 - <b>Asteroids</b>
   - [Asteroid game](https://github.com/adriacb99/Asteroids)
-- <b>Plataforms game</b>
+- <b>Platforms game</b>
   - [Tile Knight](https://github.com/adriacb99/TileKnight)
   
 <h2>📺 Javascript exercices</h2>
