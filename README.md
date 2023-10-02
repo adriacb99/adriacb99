@@ -1,4 +1,4 @@
-<h1>Hi, I'm Adrià! <br/><a href="[https://github.com/adriacb99]">Programmer</a>, <a href="[https://github.com/adriacb99]">Game Developer student</a>
+<h1>Hi, I'm Adrià! <br/><a href="https://github.com/adriacb99">Programmer</a>, <a href="https://github.com/adriacb99">Game Developer student</a>
 
 <h2>🎮 Unity Minigames:</h2>
 
