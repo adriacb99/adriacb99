@@ -21,7 +21,7 @@
 <h2>👨‍💻 C#/C++:</h2>
 
 - <b>Mini graphic adventure </b>
-  - [My favourite games](https://github.com/adriacb99/GraphicAdventure)
+  - [Graphic adventure](https://github.com/adriacb99/GraphicAdventure)
   
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
